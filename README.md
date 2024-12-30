@@ -20,6 +20,6 @@ plt.legend(loc="lower right")
 plt.savefig('sin_and_derivative_plot.png')
 
 plt.savefig('C:\Users\Uurcp\sin_and_derivative_plot.png')
-![image](https://github.com/user-attachments/assets/e589890d-2934-4e04-8c42-1ce6a442af6d)
+![image](https://github.com/user-attachments/assets/c73cb6d9-f9f0-42d9-ba35-1bf3ff002796)
 
 ![Plot of sin(x) and its Derivative]("C:\Users\Uurcp\sin_and_derivative_plot.png")
